@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7e3d642e48bc244946af77b2",
+  "owner": "quoqlctin",
+  "repo": "page-57ba9814be09f803e392f8dd",
+  "title": "涡轮社区",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "57ba9814be09f803e392f8dd",
+      "a": "涡轮社区",
+      "b": "机场官网线路发布页",
+      "entity": "涡轮社区",
+      "brand": "涡轮社区",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1f0f644f8b5346a7fd4fb8543bac45db53d96228d10253e1d764b62735b36dcc",
+      "content": {
+        "primary_entity": "涡轮社区",
+        "keyword1": "涡轮社区",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按使用设备选择对应的客户端软件，不同平台在订阅导入方式上各有差异，请依照客户端说明操作。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "浏览套餐与客户端说明，按设备情况选定订阅方案。",
+          "AI_CLOSING_TITLE": "选好套餐，顺畅连接",
+          "AI_DESCRIPTION": "，主打不同流量与设备数量的订阅方案。基础版每月 100GB 流量、3 台设备在线；旗舰版每月 300GB 流量、5 台设备在线，并带 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、20 台设备在线，适合多人协作。年付方案价格更优，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。选购时先看日常设备数量和月流量需求，再决定周期长短。",
+          "AI_FAQ_ANSWER_1": "先看设备数量与月流量。单人手机加电脑，基础版 3 台设备、100GB 流量通常够用；家中多台设备或常看高清流媒体，可考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数量按同时连接计算，超出后需断开其他设备再连。",
+          "AI_FAQ_ANSWER_3": "可以，年付比月付更划算。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用建议一次付清年费。",
+          "AI_FAQ_ANSWER_4": "基础版提供普通线路节点池，旗舰版带 IPLC 专线并针对游戏加速优化，团队版有 VIP 专属高带宽节点。按延迟要求挑选即可。",
+          "AI_FAQ_ANSWER_5": "先在客户端软件中获取订阅地址，粘贴到对应客户端的订阅导入栏，保存后更新节点列表，再选择线路连接。具体步骤以所用客户端文档为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "初次使用涡轮社区，选哪个套餐合适？",
+          "AI_FAQ_QUESTION_2": "套餐里的设备数量限制怎么计算？",
+          "AI_FAQ_QUESTION_3": "支持按年付款吗？价格有优惠吗？",
+          "AI_FAQ_QUESTION_4": "不同套餐的线路节点有什么区别？",
+          "AI_FAQ_QUESTION_5": "订阅在客户端里怎么导入和更新？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量和订阅周期三个角度对比，找到匹配日常使用的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月实际用量选择。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_2": "同时在线设备从 3 台到 20 台，多人共用优先选高设备数套餐。",
+          "AI_FEATURE_TITLE_2": "按设备数量",
+          "AI_FEATURE_TEXT_3": "年付比月付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_3": "按订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "涡轮社区提供多种海外加速订阅方案，按流量、设备数量和线路等级区分，适合个人与团队按需选择。",
+          "AI_HERO_SUBTITLE": "多种订阅方案按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "年付价格更划算",
+          "AI_HIGHLIGHT_3": "支持多设备同时在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB/3 台设备，旗舰版每月 300GB/5 台设备并带 IPLC 专线，团队版每月 1000GB/20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、同时在线设备数量和线路要求，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_2": "确认常用设备系统，查阅对应客户端对订阅导入的说明与版本要求。",
+          "AI_STEP_TITLE_2": "确认客户端",
+          "AI_STEP_TEXT_3": "获取订阅地址，粘贴进客户端订阅栏，更新节点后选择线路连接。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "涡轮社区订阅方案"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hmhss.cn",
+    "host": "hmhss.cn"
+  },
+  "file_hashes": {
+    "index.html": "c33be203d16f7e6739c67d0f1af91c182f36b1bd4e8c2425bbefad6014ca0341",
+    "sitemap.xml": "7c100bc2611f976e9103a0ab2f8f8668983e51b3f0f1ecc5534c374742909b03",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e68eaa25cec657ec0e7f2bcfb6565a6ee35d9d3cad63e307ef54a619146718f4",
+    "robots.txt": "51223beb08584eedd1f659fd3e95abd3972c1d9d3b2c80571235df3e1d66b235",
+    "a3264f6f8323eab3b3f305c9cfd0a0ca.txt": "6da845406a59f7e42726102cbc2adb4d852c2c0384d3c71e3c279ad96ed6579f"
+  },
+  "revision": "58b9ff465665c331bcde0c426bcc3bdcdddc30349dab6fd79b7fde7d4b38729c"
+}

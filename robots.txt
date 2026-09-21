@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hmhss.cn/sitemap.xml
